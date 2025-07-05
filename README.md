@@ -1,9 +1,3 @@
------
-
-Certainly\! Here's the `README.md` file rewritten in English, focusing on clarity for an LLM that will implement the features.
-
------
-
 # aws-profile-switch
 
 `aws-profile-switch` is a Python-based command-line tool designed to drastically simplify AWS CLI profile switching for AWS administrators managing numerous accounts and roles. It aims to eliminate the tedium of navigating a large number of profiles in environments utilizing AWS IAM Identity Center (formerly AWS SSO).
