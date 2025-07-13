@@ -114,4 +114,4 @@ This project is open-source. Contributions, including feature enhancements and b
 
 ## License
 
-This project is released under the [LICENSE TYPE] license.
+This project is released under the [MIT](LICENSE) license.
